@@ -1,6 +1,7 @@
 ExemploAula4 = "commit"
-Exemplo2 = 1
 exemplo4 = 3
+Exemplo2 = 1
+
 exemplo3 = 2
 
 
